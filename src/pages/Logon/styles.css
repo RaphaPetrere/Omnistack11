@@ -6,7 +6,7 @@
 
     display: flex;
     align-items: center; /* alinha verticalmente */
-    justify-content: center; /* alinha horizontalmente */
+    justify-content: space-between; /* alinha horizontalmente */
 }
 
 .logon-container section.form {
